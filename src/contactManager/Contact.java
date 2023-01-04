@@ -1,5 +1,6 @@
 package contactManager;
 
+
 public class Contact {
 	
 	private String firstName;
